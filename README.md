@@ -2,7 +2,7 @@
 
 Submitted by: **Crystal Chavez and Adrian Castro**
 
-Project Description: **A simple back-end API (via REST and GraphQL) inventory management web service for a video game store, developed using agile techniques in a group setting of 2 learners. We were responsible for designing and documenting the API and implementing the controllers, service, layering, repository, Java data objects, and unit tests for the application based on the provided database structure.**
+Project Description: **A simple back-end API (via REST and GraphQL) inventory management web service for a video game store, developed using agile techniques in a group setting of 2 learners. We were responsible for designing and documenting the API and implementing the controllers, service layering, repository, Java data objects, and unit tests for the application based on the provided database structure.**
 
 Tools Used: Java, RESTful Web Services, JPA, Spring Boot, Spring MVC, Spring Initializr, MockMVC, Docker, DBeaver, AWS, Amazon RDS, CircleCI
 
