@@ -99,16 +99,6 @@ Deployment:
 - [x] Application database has been deployed to Amazon RDS and is receiving requests and responding accordingly.
 - [x] Project code has been deployed to a CircleCI CI/CD pipeline that includes a "build and test" job.
 
-## Video Walkthrough
-
-Here's a walkthrough of JSR303 tests for 404 errors, since there are no tests for it in the code:
-
-<img src='https://github.com/crystalchavez99/Final-Project/blob/main/jsr303_walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with LICEcap
-
-
 ## Notes
 One challenge we faced had to do with the delegation of responsibilities, as we originally had 3 members in our group. Our third group mate let us know that they were unable to complete their part of the project the day it was due, so we quickly had to split everything that was unaccounted for between us.
 
