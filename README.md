@@ -92,9 +92,9 @@ REST API Controller Advice and Validation:
 
 Deployment:
 - [x] Project code has been synced to a GitHub repository.
-- [x] Application has been deployed to AWS and is receiving requests and responding accordingly.
-- [x] Application database has been deployed to Amazon RDS and is receiving requests and responding accordingly.
-- [x] Project code has been deployed to a CircleCI CI/CD pipeline that includes a "build and test" job.
+- [ ] Application has been deployed to AWS and is receiving requests and responding accordingly.
+- [ ] Application database has been deployed to Amazon RDS and is receiving requests and responding accordingly.
+- [ ] Project code has been deployed to a CircleCI CI/CD pipeline that includes a "build and test" job.
 
 ## Notes
 One challenge we faced had to do with the delegation of responsibilities, as we originally had 3 members in our group. Our third group mate let us know that they were unable to complete their part of the project the day it was due, so we quickly had to split everything that was unaccounted for between us.
